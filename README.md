@@ -26,6 +26,8 @@ Go to the project directory
 
 Open with [**Live-server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-> Use the live-server extension 👀
+```bash
+Use the live-server extension 👀
+```
 
 > ![Logo](https://github.com/the-sourov/todo-app/blob/main/public/images/author-logo.png?raw=true)
